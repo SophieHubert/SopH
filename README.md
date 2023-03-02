@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SophieHubert
+- 👋 Hi, 
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Data analytics
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sophiehubert@outlook.fr
+- 📫 How to reach me 
 
 <!---
 SophieHubert/SophieHubert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
